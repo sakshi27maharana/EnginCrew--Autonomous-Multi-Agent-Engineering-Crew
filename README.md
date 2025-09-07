@@ -1,6 +1,6 @@
 ---
 
-# ⚙️ EnginCrew – Autonomous Multi-Agent Engineering
+# ⚙️ EnginCrew – Autonomous Multi-Agent Engineering-Team System 
 
 “Where AI Engineers Build Together”
 
